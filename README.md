@@ -16,3 +16,4 @@ W grze użytkownik będzie zmierzał się z odgadywaniem postaci, będzie otrzym
 https://github.com/Markowskky/SWAPI - Marek , Max i Tomek
 
 ### TEAM 3:
+https://github.com/szymonwe/swapisw - Szymon, Krzysztof
