@@ -2,7 +2,7 @@
 
 ## Aplikacja wykorzystująca publiczne API (https://swapi.dev/):
 
-TEAM 1:
+### TEAM 1:
 https://github.com/Mateusz-Muzyka/SWAPI - Mateusz , Oskar Laga i Oskar Rutkowski
 **STARDLE**
 
@@ -12,7 +12,7 @@ W grze użytkownik będzie zmierzał się z odgadywaniem postaci, będzie otrzym
 **Oskar Rutkowski** - zdjęcia
 **Oskar Laga** - 
 
-TEAM 2:
+### TEAM 2:
 https://github.com/Markowskky/SWAPI - Marek , Max i Tomek
 
-TEAM 3:
+### TEAM 3:
