@@ -6,6 +6,6 @@ TEAM 1:
 https://github.com/Mateusz-Muzyka/SWAPI - Mateusz i Oskar Laga
 
 TEAM 2:
-https://github.com/Markowskky/SWAPI - Marek i Max i Tomek
+https://github.com/Markowskky/SWAPI - Marek , Max i Tomek
 
 TEAM 3:
