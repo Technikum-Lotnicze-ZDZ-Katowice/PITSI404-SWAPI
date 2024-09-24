@@ -1,6 +1,6 @@
 # PITSI404-SWAPI
 
-##Aplikacja wykorzystująca publiczne API (https://swapi.dev/):
+## Aplikacja wykorzystująca publiczne API (https://swapi.dev/):
 
 TEAM 1:
 https://github.com/Mateusz-Muzyka/SWAPI - Mateusz , Oskar Laga i Oskar Rutkowski
