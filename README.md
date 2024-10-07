@@ -13,8 +13,9 @@ W grze użytkownik będzie zmierzał się z odgadywaniem postaci, będzie otrzym
 **Oskar Laga**   - design
 
 ### TEAM 2: **SPYTAJ OBIWAN**
- gra internetowa oparta na serii pytań, na które podstawowymi odpowiedziami są tak i nie. Sztuczna inteligencja ukryta pod postacią tytułowego jedi, dobiera pytania tak, aby drogą eliminacji odgadnąć, o jakiej postaci myśli grający BEFORE
 https://github.com/Markowskky/SWAPI - Marek , Max i Tomek
+ gra internetowa oparta na serii pytań, na które podstawowymi odpowiedziami są tak i nie. Sztuczna inteligencja ukryta pod postacią tytułowego jedi, dobiera pytania tak, aby drogą eliminacji odgadnąć, o jakiej postaci myśli grający 
+
 
 ### TEAM 3:
 https://github.com/szymonwe/swapisw - Szymon, Krzysztof
